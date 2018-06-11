@@ -1,0 +1,61 @@
+{
+  "HOME": {
+    "TITLE": "BIBLIOTECAS",
+    "SELECT": "Cambiar idioma",
+    "LOGIN": "Iniciar sesion",
+    "LOGOUT": "Cerra sesion"
+  },
+  "MENU": {
+    "dashboard": "Inicio",
+    "biblioteca": {
+      "biblioteca": "biblioteca",
+      "lista_biblioteca": "lista biblioteca",
+      "crud_biblioteca": "Crud biblioteca"
+    },
+  
+    "auth": {
+      "auth": "Autenticacion",
+      "login": "Login",
+      "register": "Registro",
+      "request-password": "Recuperar Password",
+      "reset-password": "Reiniciar Password"
+    }
+  },
+  "GLOBAL": {
+    "biblioteca": "biblioteca",
+    "placeholder_biblioteca": "ej: biblioteca",
+    "id": "id",
+    "placeholder_id": "ej: id",
+    "tipo_clasificación": "tipo_clasificación",
+    "placeholder_tipo_clasificación": "ej: tipo_clasificación",
+    "nombre": "nombre",
+    "placeholder_nombre": "ej: nombre",
+    "telefonos": "telefonos",
+    "placeholder_telefonos": "ej: telefonos",
+    "horario_general": "horario_general",
+    "placeholder_horario_general": "ej: horario_general",
+    "fax": "fax",
+    "placeholder_fax": "ej: fax",
+    "sitio_web": "sitio_web",
+    "placeholder_sitio_web": "ej: sitio_web",
+    "correo": "correo",
+    "placeholder_correo": "ej: correo",
+    "direccion": "direccion",
+    "placeholder_direccion": "ej: direccion",
+    "cord_x": "cord_x",
+    "placeholder_cord_x": "ej: cord_x",
+    "cord_y": "cord_y",
+    "placeholder_cord_y": "ej: cord_y",
+    "aceptar": "aceptar",
+    "cancelar": "cancelar",
+    "salir": "salir",
+    "eliminar": "eliminar",
+    "actualizar": "actualizar",
+    "crear": "crear",
+    "registrar": "registrar",
+    "guardar" : "guardar",
+    "formulario": "formulario",
+    "lista": "lista",
+    "regresar": "regresar"
+  }
+}
