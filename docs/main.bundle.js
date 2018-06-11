@@ -1983,7 +1983,7 @@ var Config = {
             PATH: '',
         },
         WSO2_SERVICE: '',
-        BIBLIOTECAS_SERVICE: 'http://biblio-api-biblio-api.7e14.starter-us-west-2.openshiftapps.com/',
+        BIBLIOTECAS_SERVICE: 'https://biblio-api-biblio-api.7e14.starter-us-west-2.openshiftapps.com/',
         TOKEN: {
             AUTORIZATION_URL: '',
             CLIENTE_ID: '',
